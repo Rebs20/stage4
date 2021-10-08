@@ -1,0 +1,21 @@
+* html,body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background{
+    background-image: url(../img/bk.webp);
+    background-position: 60% 10%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.background-2{
+    background-color: pink;
+}
+.vh-100{
+    background-color: black;
+}
+.page-link :hover{
+    color: pink;
+}
